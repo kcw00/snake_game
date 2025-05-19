@@ -1,4 +1,4 @@
-# 🐍 Snake Game (built from scratch in 2021)
+# 🐍 Snake Game (built from scratch in 2022)
 
 A modern remake of the classic **Snake** game using **C++**, **SDL2**, and **SDL_ttf**.
 
